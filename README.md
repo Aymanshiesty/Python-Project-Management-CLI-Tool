@@ -35,5 +35,6 @@ pipenv run python main.py add-task --project "API Gateway" --title "Configure CO
 pipenv run python main.py complete-task --id "1"
 View All Projects:
 pipenv run python main.py list-projects
+ 
 
 pipenv run python main.py delete-user --username "ayaan"
